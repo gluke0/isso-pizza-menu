@@ -1,6 +1,8 @@
 <script >
 
 import Header from '../src/assets/components/header.vue';
+import Main from '../src/assets/components/main.vue';
+import Footer from '../src/assets/components/footer.vue';
 
 export default {
   name: "App",
@@ -10,6 +12,8 @@ export default {
   },
   components: {
     Header,
+    Main,
+    Footer,
   },
 }
 
@@ -19,6 +23,8 @@ export default {
 
 <template>
   <Header></Header>
+  <Main></Main>
+  <Footer></Footer>
 </template>
 
 <style lang="scss">
