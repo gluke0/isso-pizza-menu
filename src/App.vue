@@ -1,11 +1,26 @@
 <script >
 
+import Header from '../src/assets/components/header.vue';
+
+export default {
+  name: "App",
+  data() {
+    return {
+    }
+  },
+  components: {
+    Header,
+  },
+}
+
 </script>
 
+
+
 <template>
-  <h1>Ciao mondo</h1>
+  <Header></Header>
 </template>
 
 <style lang="scss">
-@use './style/main.scss';
+
 </style>
