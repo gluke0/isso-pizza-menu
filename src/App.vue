@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <h1>PIZZA MENU</h1>
+  <h1>Ciao mondo</h1>
 </template>
 
 <style lang="scss">
