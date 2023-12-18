@@ -22,9 +22,11 @@ export default {
 
 
 <template>
-  <Header></Header>
-  <Main></Main>
-  <Footer></Footer>
+  <div class="container">
+    <Header></Header>
+    <Main></Main>
+    <Footer></Footer>
+  </div>
 </template>
 
 <style lang="scss">

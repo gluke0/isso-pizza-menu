@@ -23,7 +23,6 @@ export default {
 
     <div>
       google maps mappa
-      
     </div>
 
 </template>
