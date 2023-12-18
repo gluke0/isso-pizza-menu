@@ -14,6 +14,17 @@ export default {
 
 <template>
     
+    <div>
+      localita
+      via
+      cap + provincia
+      numero telefono
+    </div>
+
+    <div>
+      google maps mappa
+      
+    </div>
 
 </template>
 
