@@ -14,6 +14,9 @@ export default {
 
 <template>
     
+  <div class="logo">
+    <img src="../../../../public/img/logotry.png" alt="logotry">
+  </div>
 
 </template>
 
