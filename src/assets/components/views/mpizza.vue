@@ -15,7 +15,7 @@ export default {
 <template>
     
     <div>
-      
+      here we can add all pizzas
     </div>
 
 </template>
