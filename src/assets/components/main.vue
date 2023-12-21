@@ -1,5 +1,8 @@
 <script>
 
+import Pizza from './views/mpizza.vue'
+import Extra from './views/mextra.vue'
+
 export default {
   name: "Main",
   data() {
@@ -7,12 +10,17 @@ export default {
     }
   },
   components: {
+    Pizza,
+    Extra,
   },
 }
 </script>
 
 <template>
-    
+
+  <Pizza></Pizza>
+  <Extra></Extra>
+
 </template>
 
 <style lang="scss">

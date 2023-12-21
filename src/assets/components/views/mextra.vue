@@ -1,7 +1,7 @@
 <script>
 
 export default {
-  name: "logo",
+  name: "extra",
   data() {
     return {
     }
@@ -14,11 +14,9 @@ export default {
 
 <template>
     
-  <div class="logo">
-
-    <img src="../../../../public/img/logotry.png" alt="logotry">
-    
-  </div> 
+    <div>
+      
+    </div>
 
 </template>
 
