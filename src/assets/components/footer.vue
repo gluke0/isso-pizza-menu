@@ -14,6 +14,13 @@ export default {
 
 <template>
   
+  <div>
+    L'Angolo Della Pizza di Mapy
+    Via Cascina Secchi, 516, 
+    24058 Isso BG
+    P. IVA 04604600165
+  </div>
+
 </template>
 
 <style lang="scss">
