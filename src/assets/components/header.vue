@@ -18,8 +18,10 @@ export default {
 
 <template>
 
-  <Logo></Logo>
-  <Contacts></Contacts>
+  <div class="d-flex justify-content-between pt-3">
+    <Logo></Logo>
+    <Contacts></Contacts>
+  </div>
 
 </template>
 
