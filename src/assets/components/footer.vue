@@ -27,7 +27,7 @@ export default {
     </div>
     <div class="credits">
       <div>
-        <b><i>Made with <i class="fa-solid fa-laptop-code"></i> by:</i></b>
+        <b><i>Made with <i class="fa-solid fa-laptop-code"></i> by: </i></b>
       </div>
       <div>
         <i><a href="https://www.github.com/gluke0" target=”_blank” class="text-black text-decoration-none ms-4"> <i class="fa-brands fa-square-github"></i> gluke</a></i>
