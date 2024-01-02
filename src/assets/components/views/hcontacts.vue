@@ -19,9 +19,10 @@ export default {
       
       <div>  <i> Via Cascina Secchi, 516 </i> </div>
       
-      <div> <i> 24058 Isso BG </i> </div>
+      <div> <i> 24058 Isso BG </i> </div>                 
+
       <br>
-      <div> <i> <b> +39 389 5468163 </b> </i> </div>
+      <div class="calling"> <a target="_blank" class="text-black text-decoration-none" href="tel:+393895468163"><i> <b> <i class="fa-solid fa-phone"></i> +39 389 5468163 </b> </i> </a> </div>
     </div>
 
     <div>
@@ -31,8 +32,13 @@ export default {
 </template>
 
 <style lang="scss">
-.namep{
+.calling{
+  font-size: x-large;
+  cursor: pointer;
+}
 
+.calling:hover{
+  transform: scale(1.03);
 }
 
 </style>
