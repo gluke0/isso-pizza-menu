@@ -33,9 +33,9 @@ export default {
         <i><a href="https://www.github.com/gluke0" target=”_blank” class="text-black text-decoration-none ms-4"> <i class="fa-brands fa-square-github"></i> gluke</a></i>
       </div>
       <br>
-      <div>
+      <!-- <div>
       <i><a href="https://www.x.com/gluke0" target=”_blank” class="text-black text-decoration-none ms-4"><i class="fa-brands fa-square-x-twitter"></i> gluke</a></i>
-      </div>
+      </div> -->
     </div>
   </div>
 
