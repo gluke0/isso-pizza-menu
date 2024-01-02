@@ -15,7 +15,7 @@ export default {
 <template>
     
     <div>
-      here we can add extras
+      <h3 class="text-uppercase">piccola gastronomia d'asporto</h3>
     </div>
 
 </template>

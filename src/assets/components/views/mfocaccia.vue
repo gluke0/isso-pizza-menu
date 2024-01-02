@@ -1,7 +1,7 @@
 <script>
 
 export default {
-  name: "pizza",
+  name: "focaccia",
   data() {
     return {
     }
@@ -15,7 +15,7 @@ export default {
 <template>
     
     <div>
-      <h3 class="text-uppercase">pizze</h3>
+      <h3 class="text-uppercase">focacce</h3>
     </div>
 
 </template>
