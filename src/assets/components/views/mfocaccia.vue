@@ -34,9 +34,13 @@ export default {
         <div>
           <ul class="me-5">
             <li>€ 4,50 a por.</li>
+            <br>
             <li>€ 4,50 a por.</li>
+            <br>
             <li>€ 4,50 a por.</li>
+            <br>
             <li>€ 4,50 a por.</li>
+            <br>
             <li>€ 6,50 a por.</li>
           </ul>
         </div>
