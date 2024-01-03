@@ -16,6 +16,30 @@ export default {
     
     <div>
       <h3 class="text-uppercase">piccola gastronomia d'asporto</h3>
+      <h5>Dal martedì al venerdì solo a pranzo</h5>
+
+      <div class="list d-flex justify-content-between">
+        <div>
+          <ul class="ms-5">
+            <li>Panzerotti assortiti</li>
+            <li>Patatine</li>
+            <li>Olive ascolane</li>
+            <li>Mozzarelline</li>
+            <li>Stik di pollo</li>
+            <li>Crocchette di patate</li>
+          </ul>
+        </div>
+        <div>
+          <ul class="me-5">
+            <li>€ 4,50 cad.</li>
+            <li>€ 2,50 por.</li>
+            <li>€ 4,00 pz 8</li>
+            <li>€ 3,50 pz 8</li>
+            <li>€ 4,00 pz 8</li>
+            <li>€ 3,50 pz 8</li>
+          </ul>
+        </div>
+      </div>
     </div>
 
 </template>
