@@ -46,5 +46,8 @@ export default {
 
 <style lang="scss">
 
+li{
+  list-style: none;
+}
 
 </style>
