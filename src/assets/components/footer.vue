@@ -14,7 +14,7 @@ export default {
 
 <template>
 
-  <div class="justify-content-around d-flex">
+  <div class="justify-content-center d-flex py-5">
     <!-- <div class="footerino">
       <div> <b><i>L'Angolo Della Pizza di Mapy </i></b> </div> 
       
@@ -27,10 +27,10 @@ export default {
     </div> -->
     <div class="credits">
       <div>
-        <b><i>Made with <i class="fa-solid fa-laptop-code"></i> by: </i></b>
+        <b><i>Made in 2024 with <i class="fa-solid fa-laptop-code"></i> by: </i></b>
       </div>
-      <div>
-        <i><a href="https://www.github.com/gluke0" target=”_blank” class="text-black text-decoration-none ms-4"> <i class="fa-brands fa-square-github"></i> gluke</a></i>
+      <div class="d-flex justify-content-center">
+        <i><a href="https://www.github.com/gluke0" target=”_blank” class="text-black text-decoration-none"> <i class="fa-brands fa-square-github"></i> gluke</a></i>
       </div>
       <br>
     </div>
