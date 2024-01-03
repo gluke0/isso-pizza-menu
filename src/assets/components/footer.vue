@@ -15,7 +15,7 @@ export default {
 <template>
 
   <div class="justify-content-around d-flex">
-    <div class="footerino">
+    <!-- <div class="footerino">
       <div> <b><i>L'Angolo Della Pizza di Mapy </i></b> </div> 
       
       <div>  <i> Via Cascina Secchi, 516 </i> </div>
@@ -24,7 +24,7 @@ export default {
       
       <div> P. IVA 04604600165 </div>
 
-    </div>
+    </div> -->
     <div class="credits">
       <div>
         <b><i>Made with <i class="fa-solid fa-laptop-code"></i> by: </i></b>
