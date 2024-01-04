@@ -15,16 +15,6 @@ export default {
 <template>
 
   <div class="justify-content-center d-flex py-5">
-    <!-- <div class="footerino">
-      <div> <b><i>L'Angolo Della Pizza di Mapy </i></b> </div> 
-      
-      <div>  <i> Via Cascina Secchi, 516 </i> </div>
-      
-      <div> <i> 24058 Isso BG </i> </div>
-      
-      <div> P. IVA 04604600165 </div>
-
-    </div> -->
     <div class="credits">
       <div>
         <b><i>Made in 2024 with <i class="fa-solid fa-laptop-code"></i> by: </i></b>
