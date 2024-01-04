@@ -71,7 +71,6 @@ export default {
             <span>(mozzarella, pomodoro, funghi misti)</span>
             <li>Pizza Tonno e Cipolla</li>
             <span>(mozzarella, pomodoro, tonno, cipolla)</span>
-
           </ul>
         </div>
         <div>
@@ -135,6 +134,9 @@ export default {
 </template>
 
 <style lang="scss">
-
+ul span{
+  color: rgb(255, 255, 255);
+  font-size: smaller;
+}
 
 </style>
