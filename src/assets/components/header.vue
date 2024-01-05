@@ -18,7 +18,7 @@ export default {
 
 <template>
 
-  <div class="d-flex justify-content-between pt-3">
+  <div class="d-flex justify-content-center pt-3">
     <Logo></Logo>
     <Contacts></Contacts>
   </div>

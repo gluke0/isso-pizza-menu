@@ -14,7 +14,7 @@ export default {
 
 <template>
     
-    <div>
+    <div class="">
       <div class="namep"> <h1>L'Angolo Della Pizza di Mapy </h1> </div> 
       
       <div>  <i> Via Cascina Secchi, 516 </i> </div>

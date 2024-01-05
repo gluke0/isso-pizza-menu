@@ -14,11 +14,11 @@ export default {
 
 <template>
     
-  <div class="logo">
+  <!-- <div class="logo">
 
     <img src="../../../../public/img/logotry.png" alt="logotry">
     
-  </div> 
+  </div>  -->
 
 </template>
 
