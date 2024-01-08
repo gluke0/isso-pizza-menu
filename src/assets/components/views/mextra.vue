@@ -59,6 +59,7 @@ li{
 h5{
   color: rgb(40, 85, 89)!important;
   font-style: italic;
+  font-size: 1rem!important;
 }
 
 </style>
