@@ -14,9 +14,9 @@ export default {
 
 <template>
     
-    <div>
+    <div class="mt-4">
       <h3 class="text-uppercase">focacce <span class="detmain">(prezzo a porzione)</span></h3>
-      <div class="d-flex justify-content-between">
+      <div class="">
         <div>
             <div class="d-flex justify-content-between">
               <li class="oddy">Focaccia Pugliese</li> <span class="oddy">€ 4,50</span>
