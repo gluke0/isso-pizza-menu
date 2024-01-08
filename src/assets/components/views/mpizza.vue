@@ -135,12 +135,18 @@ export default {
 
 <style lang="scss">
 ul span{
-  color: rgb(255, 255, 255);
+  color: rgb(237, 232, 232);
   font-size: smaller;
+  font-style: italic;
 }
 
 .oddy{
-  color: blue;
+  color: rgb(50, 84, 87);
+}
+
+.oddy, li{
+  font-weight: bold;
+  font-size: larger;
 }
 
 </style>
