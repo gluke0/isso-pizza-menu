@@ -15,7 +15,7 @@ export default {
 <template>
     
     <div>
-      <h3 class="text-uppercase mt-3">pizze</h3>
+      <h3 class="text-uppercase mt-3">pizze <span class="detmain">prezzo a porzione</span></h3>
       <div class="d-flex justify-content-between">
         <div>
           <ul class="ps-0">

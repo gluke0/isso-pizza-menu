@@ -15,7 +15,7 @@ export default {
 <template>
     
     <div>
-      <h3 class="text-uppercase">focacce</h3>
+      <h3 class="text-uppercase">focacce <span class="detmain">prezzo a porzione</span></h3>
       <div class="d-flex justify-content-between">
         <div>
           <ul class="ps-0">
