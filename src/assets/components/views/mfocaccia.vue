@@ -16,7 +16,7 @@ export default {
     
     <div class="mt-4">
       <h3 class="text-uppercase">focacce <span class="detmain">(prezzo a porzione)</span></h3>
-      <div class="">
+      <div class="focsec">
         <div>
             <div class="d-flex justify-content-between">
               <li class="oddy">Focaccia Pugliese</li> <span class="oddy">€ 4,50</span>
