@@ -18,115 +18,135 @@ export default {
       <h3 class="text-uppercase mt-3">pizze <span class="detmain">(prezzo a porzione)</span></h3>
       <div class="d-flex justify-content-between">
         <div>
-          <ul class="ps-0">
-            <li class="oddy">Pizza Margherita</li>
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Pizza Margherita</li> <span class="oddy">€ 5,00</span>
+            </div>
             <span>(mozzarella, pomodoro)</span>
-            <li>Pizza Rucola</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Pizza Rucola</li> <span class="even">€ 5,50</span>
+            </div>
             <span>(mozzarella, pomodoro, rucola)</span>
-            <li  class="oddy">Pizza Cipolla</li>
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Pizza Cipolla</li> <span class="oddy">€ 5,50</span>
+            </div>
             <span>(mozzarella, pomodoro, cipolla)</span>
-            <li>Pizza Capperi</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Pizza Capperi</li> <span class="even">€ 5,50</span>
+            </div>
             <span>(mozzarella, pomodoro, capperi)</span>
-            <li class="oddy">Pizza Olive</li>
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Pizza Olive</li> <span class="oddy">€ 5,00</span>
+            </div>
             <span>(mozzarella, pomodoro, olive)</span>
-            <li>Pizza Acciughe</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Pizza Acciughe</li> <span class="even">€ 5,50</span>
+            </div>
             <span>(mozzarella, pomodoro, acciughe)</span>
-            <li class="oddy">Pizza Carciofi</li>
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Pizza Carciofi</li> <span class="oddy">€ 5,00</span>
+            </div>
             <span>(mozzarella, pomodoro, carciofi)</span>
-            <li>Pizza Wurstel</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Pizza Wurstel</li> <span class="even">€ 5,50</span>
+            </div>
             <span>(mozzarella, pomodoro, wurstel)</span>
-            <li class="oddy">PIzza al Prosciutto Cotto</li>
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Pizza al Prosciutto Cotto</li> <span class="oddy">€ 5,00</span>
+            </div>
             <span>(mozzarella, pomodoro, prosciutto cotto)</span>
-            <li>Pizza Patate Fritte</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Pizza Patate Fritte</li> <span class="even">€ 5,50</span>
+            </div>
             <span>(mozzarella, pomodoro, patate fritte)</span>
-            <li class="oddy">Pizza Capricciosa</li>
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Pizza Capricciosa</li> <span class="oddy">€ 5,00</span>
+            </div>
             <span>(mozzarella, pomodoro, olive, capperi, peperoni, funghi, carciofi)</span>
-            <li>Pizza Prosciutto e Fughi</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Pizza Prosciutto e Funghi</li> <span class="even">€ 5,50</span>
+            </div>
             <span>(mozzarella, pomodoro, prosciutto cotto, funghi champignon)</span>
-            <li class="oddy">Pizza Wurstel e Patatine</li>
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Pizza Wurstel e Patatine</li> <span class="oddy">€ 5,00</span>
+            </div>
             <span>(mozzarella, pomodoro, wurstel, patatine fritte)</span>
-            <li>Pizza 4 Stagioni</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Pizza 4 Stagioni</li> <span class="even">€ 5,50</span>
+            </div>
             <span>(mozzarella, pomodoro, olive, capperi, funghi, peperoni, carciofi, prosciutto)</span>
-            <li class="oddy">Pizza Pancetta e Tonno</li>
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Pizza Pancetta e Tonno</li> <span class="oddy">€ 5,00</span>
+            </div>
             <span>(mozzarella, pomodoro, pancetta, tonno)</span>
-            <li>Pizza Mapy</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Pizza Mapy</li> <span class="even">€ 5,50</span>
+            </div>
             <span>(mozzarella, pomodoro, rucola, scaglie di grana, prosciutto crudo)</span>
-            <li class="oddy">Pizza Tonno</li>
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Pizza Tonno</li> <span class="oddy">€ 5,00</span>
+            </div>
             <span>(mozzarella, pomodoro, tonno)</span>
-            <li>Pizza Funghi Champignon</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Pizza Funghi Champignon</li> <span class="even">€ 5,50</span>
+            </div>
             <span>(mozzarella, pomodoro, funghi champignon)</span>
-            <li class="oddy">Pizza Prosciutto Crudo</li>
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Pizza Prosciutto Crudo</li> <span class="oddy">€ 5,00</span>
+            </div>
             <span>(mozzarella, pomodoro, prosciutto crudo)</span>
-            <li>Pizza Salame Piccante</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Pizza Salame Piccante</li> <span class="even">€ 5,50</span>
+            </div>
             <span>(mozzarella, pomodoro, salame piccante)</span>
-            <li class="oddy">Pizza Speck</li>
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Pizza Speck</li> <span class="oddy">€ 5,00</span>
+            </div>
             <span>(mozzarella, pomodoro, speck)</span>
-            <li>Pizza Salame</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Pizza Salame</li> <span class="even">€ 5,50</span>
+            </div>
             <span>(mozzarella, pomodoro, salame)</span>
-            <li class="oddy">Pizza Pancetta</li>
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Pizza Pancetta</li> <span class="oddy">€ 5,00</span>
+            </div>
             <span>(mozzarella, pomodoro, pancetta)</span>
-            <li>Pizza Verdure Grigliate</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Pizza Verdure Grigliate</li> <span class="even">€ 5,50</span>
+            </div>
             <span>(mozzarella, pomodoro, verdure grigliate miste)</span>
-            <li class="oddy">Pizza Funghi Misti</li>
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Pizza Funghi Misti</li> <span class="oddy">€ 5,00</span>
+            </div>
             <span>(mozzarella, pomodoro, funghi misti)</span>
-            <li>Pizza Tonno e Cipolla</li>
-            <span>(mozzarella, pomodoro, tonno, cipolla)</span>
-          </ul>
-        </div>
-        <div>
-          <ul class="prices">
-            <li class="oddy">€ 5,00</li>
-            <br>
-            <li>€ 5,50</li>
-            <br>
-            <li class="oddy">€ 5,50</li>
-            <br>
-            <li>€ 5,50  </li>
-            <br>
-            <li class="oddy">€ 5,50  </li>
-            <br>
-            <li>€ 5,50  </li>
-            <br>
-            <li class="oddy">€ 6,00  </li>
-            <br>
-            <li>€ 6,00  </li>
-            <br>
-            <li class="oddy">€ 6,00  </li>
-            <br>
-            <li>€ 6,00  </li>
-            <br>
-            <li class="oddy">€ 6,50  </li>
-            <br>
-            <li>€ 7,00  </li>
-            <br>
-            <li class="oddy">€ 7,00  </li>
-            <br>
-            <li>€ 7,50  </li>
-            <br>
-            <li class="oddy">€ 7,50  </li>
-            <br>
-            <li>€ 7,50  </li>
-            <br>
-            <li class="oddy">€ 6,00  </li>
-            <br>
-            <li>€ 6,00  </li>
-            <br>
-            <li class="oddy">€ 6,50  </li>
-            <br>
-            <li>€ 6,50  </li>
-            <br>
-            <li class="oddy">€ 6,50  </li>
-            <br>
-            <li>€ 6,50  </li>
-            <br>
-            <li class="oddy">€ 6,50  </li>
-            <br>
-            <li>€ 6,50  </li>
-            <br>
-            <li class="oddy">€ 6,50  </li>
-            <br>
-            <li>€ 6,00  </li>
-          </ul>
+
+            <div class="d-flex justify-content-between">
+              <li>Pizza Tonno e Cipolla</li> <span class="even">€ 5,50</span>
+            </div>
+            <span>(mozzarella, pomodoro, tonno, cipolla)</span>  
         </div>
       </div>
     </div>
@@ -134,7 +154,7 @@ export default {
 </template>
 
 <style lang="scss">
-ul span{
+div span{
   color: rgb(237, 232, 232);
   font-size: smaller;
   font-style: italic;
@@ -142,6 +162,12 @@ ul span{
 
 .oddy{
   color: rgb(50, 84, 87);
+}
+
+.even{
+  color: black;
+  font-size: larger;
+  font-weight: bold;
 }
 
 .oddy, li{
