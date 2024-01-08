@@ -15,7 +15,7 @@ export default {
 <template>
     
     <div>
-      <h3 class="text-uppercase mt-3">pizze <span class="detmain">prezzo a porzione</span></h3>
+      <h3 class="text-uppercase mt-3">pizze <span class="detmain">(prezzo a porzione)</span></h3>
       <div class="d-flex justify-content-between">
         <div>
           <ul class="ps-0">
@@ -75,57 +75,57 @@ export default {
         </div>
         <div>
           <ul class="prices">
-            <li class="oddy">€ 5,00 a por.</li>
+            <li class="oddy">€ 5,00</li>
             <br>
-            <li>€ 5,50 a por.</li>
+            <li>€ 5,50</li>
             <br>
-            <li class="oddy">€ 5,50 a por.</li>
+            <li class="oddy">€ 5,50</li>
             <br>
-            <li>€ 5,50 a por.</li>
+            <li>€ 5,50  </li>
             <br>
-            <li class="oddy">€ 5,50 a por.</li>
+            <li class="oddy">€ 5,50  </li>
             <br>
-            <li>€ 5,50 a por.</li>
+            <li>€ 5,50  </li>
             <br>
-            <li class="oddy">€ 6,00 a por.</li>
+            <li class="oddy">€ 6,00  </li>
             <br>
-            <li>€ 6,00 a por.</li>
+            <li>€ 6,00  </li>
             <br>
-            <li class="oddy">€ 6,00 a por.</li>
+            <li class="oddy">€ 6,00  </li>
             <br>
-            <li>€ 6,00 a por.</li>
+            <li>€ 6,00  </li>
             <br>
-            <li class="oddy">€ 6,50 a por.</li>
+            <li class="oddy">€ 6,50  </li>
             <br>
-            <li>€ 7,00 a por.</li>
+            <li>€ 7,00  </li>
             <br>
-            <li class="oddy">€ 7,00 a por.</li>
+            <li class="oddy">€ 7,00  </li>
             <br>
-            <li>€ 7,50 a por.</li>
+            <li>€ 7,50  </li>
             <br>
-            <li class="oddy">€ 7,50 a por.</li>
+            <li class="oddy">€ 7,50  </li>
             <br>
-            <li>€ 7,50 a por.</li>
+            <li>€ 7,50  </li>
             <br>
-            <li class="oddy">€ 6,00 a por.</li>
+            <li class="oddy">€ 6,00  </li>
             <br>
-            <li>€ 6,00 a por.</li>
+            <li>€ 6,00  </li>
             <br>
-            <li class="oddy">€ 6,50 a por.</li>
+            <li class="oddy">€ 6,50  </li>
             <br>
-            <li>€ 6,50 a por.</li>
+            <li>€ 6,50  </li>
             <br>
-            <li class="oddy">€ 6,50 a por.</li>
+            <li class="oddy">€ 6,50  </li>
             <br>
-            <li>€ 6,50 a por.</li>
+            <li>€ 6,50  </li>
             <br>
-            <li class="oddy">€ 6,50 a por.</li>
+            <li class="oddy">€ 6,50  </li>
             <br>
-            <li>€ 6,50 a por.</li>
+            <li>€ 6,50  </li>
             <br>
-            <li class="oddy">€ 6,50 a por.</li>
+            <li class="oddy">€ 6,50  </li>
             <br>
-            <li>€ 6,00 a por.</li>
+            <li>€ 6,00  </li>
           </ul>
         </div>
       </div>

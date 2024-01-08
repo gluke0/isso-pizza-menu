@@ -15,7 +15,7 @@ export default {
 <template>
     
     <div>
-      <h3 class="text-uppercase">focacce <span class="detmain">prezzo a porzione</span></h3>
+      <h3 class="text-uppercase">focacce <span class="detmain">(prezzo a porzione)</span></h3>
       <div class="d-flex justify-content-between">
         <div>
           <ul class="ps-0">
@@ -33,15 +33,15 @@ export default {
         </div>
         <div>
           <ul class="">
-            <li class="oddy">€ 4,50 a por.</li>
+            <li class="oddy">€ 4,50</li>
             <br>
-            <li>€ 4,50 a por.</li>
+            <li>€ 4,50</li>
             <br>
-            <li class="oddy">€ 4,50 a por.</li>
+            <li class="oddy">€ 4,50</li>
             <br>
-            <li>€ 4,50 a por.</li>
+            <li>€ 4,50</li>
             <br>
-            <li class="oddy">€ 6,50 a por.</li>
+            <li class="oddy">€ 6,50</li>
           </ul>
         </div>
       </div>
