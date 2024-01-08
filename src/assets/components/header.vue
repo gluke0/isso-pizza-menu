@@ -19,8 +19,8 @@ export default {
 <template>
 
   <div class="d-flex justify-content-center pt-3">
-    <Logo></Logo>
     <Contacts></Contacts>
+    <Logo></Logo>
   </div>
 
 </template>
