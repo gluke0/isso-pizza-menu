@@ -18,7 +18,7 @@ export default {
       <h3 class="text-uppercase mt-3">pizze</h3>
       <div class="d-flex justify-content-between">
         <div>
-          <ul class="ms-5">
+          <ul class="ms-3">
             <li class="oddy">Pizza Margherita</li>
             <span>(mozzarella, pomodoro)</span>
             <li>Pizza Rucola</li>

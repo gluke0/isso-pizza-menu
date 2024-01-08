@@ -18,7 +18,7 @@ export default {
       <h3 class="text-uppercase">focacce</h3>
       <div class="d-flex justify-content-between">
         <div>
-          <ul class="ms-5">
+          <ul class="ms-3">
             <li class="oddy">Focaccia Pugliese</li>
             <span>(origano e pomodorini)</span>
             <li>Focaccia Patate</li>

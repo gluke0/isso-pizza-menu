@@ -20,7 +20,7 @@ export default {
 
       <div class="list d-flex justify-content-between">
         <div>
-          <ul class="ms-5">
+          <ul class="ms-3">
             <li class="oddy">Panzerotti assortiti</li>
             <li>Patatine</li>
             <li class="oddy">Olive ascolane</li>
