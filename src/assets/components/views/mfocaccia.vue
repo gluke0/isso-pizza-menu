@@ -18,31 +18,30 @@ export default {
       <h3 class="text-uppercase">focacce <span class="detmain">(prezzo a porzione)</span></h3>
       <div class="d-flex justify-content-between">
         <div>
-          <ul class="ps-0">
-            <li class="oddy">Focaccia Pugliese</li>
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Focaccia Pugliese</li> <span class="oddy">€ 4,50</span>
+            </div>
             <span>(origano e pomodorini)</span>
-            <li>Focaccia Patate</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Focaccia Patate</li> <span class="even">€ 4,50</span>
+            </div>
             <span>(patate e rosmarino)</span>
-            <li class="oddy">Focaccia Zucchine e Grana</li>
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Focaccia Zucchine e Grana</li> <span class="oddy">€ 4,50</span>
+            </div>
             <span>(zucchine e formaggio grana)</span>
-            <li>Focaccia Cipolle</li>
+
+            <div class="d-flex justify-content-between">
+              <li>Focaccia Cipolle</li> <span class="even">€ 4,50</span>
+            </div>
             <span>(cipolle)</span>
-            <li class="oddy">Focaccia Ripiena</li>
+            
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Focaccia Ripiena</li> <span class="oddy">€ 6,50</span>
+            </div>
             <span>(farcitura a piacimento con salumi tra: crudo, cotto e salame)</span>
-          </ul>
-        </div>
-        <div>
-          <ul class="">
-            <li class="oddy">€ 4,50</li>
-            <br>
-            <li>€ 4,50</li>
-            <br>
-            <li class="oddy">€ 4,50</li>
-            <br>
-            <li>€ 4,50</li>
-            <br>
-            <li class="oddy">€ 6,50</li>
-          </ul>
         </div>
       </div>
     </div>
