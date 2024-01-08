@@ -147,6 +147,14 @@ export default {
               <li>Pizza Tonno e Cipolla</li> <span class="even">€ 6,00</span>
             </div>
             <span>(mozzarella, pomodoro, tonno, cipolla)</span>  
+
+            <div class="d-flex justify-content-between">
+              <li class="oddy">Ingrediente Aggiunto</li> <span class="oddy">€ 1,00</span>
+            </div>
+          
+            <div class="d-flex justify-content-between mt-3">
+              <li>Mozzarella Senza Lattosio</li> <span class="even">€ 1,00</span>
+            </div> 
         </div>
       </div>
     </div>
