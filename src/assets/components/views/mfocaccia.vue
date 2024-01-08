@@ -18,7 +18,7 @@ export default {
       <h3 class="text-uppercase">focacce</h3>
       <div class="d-flex justify-content-between">
         <div>
-          <ul class="ms-3">
+          <ul class="ps-0">
             <li class="oddy">Focaccia Pugliese</li>
             <span>(origano e pomodorini)</span>
             <li>Focaccia Patate</li>
@@ -32,7 +32,7 @@ export default {
           </ul>
         </div>
         <div>
-          <ul class="me-5">
+          <ul class="">
             <li class="oddy">€ 4,50 a por.</li>
             <br>
             <li>€ 4,50 a por.</li>

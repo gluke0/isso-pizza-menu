@@ -18,7 +18,7 @@ export default {
       <h3 class="text-uppercase mt-3">pizze</h3>
       <div class="d-flex justify-content-between">
         <div>
-          <ul class="ms-3">
+          <ul class="ps-0">
             <li class="oddy">Pizza Margherita</li>
             <span>(mozzarella, pomodoro)</span>
             <li>Pizza Rucola</li>
@@ -74,7 +74,7 @@ export default {
           </ul>
         </div>
         <div>
-          <ul class="me-5">
+          <ul class="prices">
             <li class="oddy">€ 5,00 a por.</li>
             <br>
             <li>€ 5,50 a por.</li>

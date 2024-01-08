@@ -10,3 +10,14 @@ h3{
     font-weight: bolder;
     font-style: italic;
 }
+
+.det{
+    font-size: 0.8rem;
+  }
+
+// media query
+@media screen and (max-width: 690px) {
+   .prices > li{
+    font-size: 1rem;
+   }
+  }

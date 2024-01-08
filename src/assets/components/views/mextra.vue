@@ -20,23 +20,23 @@ export default {
 
       <div class="list d-flex justify-content-between">
         <div>
-          <ul class="ms-3">
-            <li class="oddy">Panzerotti assortiti</li>
-            <li>Patatine</li>
-            <li class="oddy">Olive ascolane</li>
-            <li>Mozzarelline</li>
-            <li class="oddy">Stik di pollo</li>
-            <li>Crocchette di patate</li>
+          <ul class="ps-0">
+            <li class="oddy">Panzerotti assortiti <span class="det">cad.</span></li>
+            <li>Patatine <span class="det">por.</span></li>
+            <li class="oddy">Olive ascolane <span class="det">pz 8</span></li>
+            <li>Mozzarelline <span class="det">pz 8</span></li>
+            <li class="oddy">Stik di pollo <span class="det">pz 8</span></li>
+            <li>Crocchette di patate <span class="det">pz 8</span></li>
           </ul>
         </div>
         <div>
-          <ul class="me-5">
-            <li class="oddy">€ 4,50 cad.</li>
-            <li>€ 2,50 por.</li>
-            <li class="oddy">€ 4,00 pz 8</li>
-            <li>€ 3,50 pz 8</li>
-            <li class="oddy">€ 4,00 pz 8</li>
-            <li>€ 3,50 pz 8</li>
+          <ul class="">
+            <li class="oddy">€ 4,50</li>
+            <li>€ 2,50</li>
+            <li class="oddy">€ 4,00</li>
+            <li>€ 3,50</li>
+            <li class="oddy">€ 4,00</li>
+            <li>€ 3,50</li>
           </ul>
         </div>
       </div>
